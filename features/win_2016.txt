@@ -1,0 +1,65 @@
+﻿﻿## components in common between all server types
+#OS App server components
+#TEMP: Application-Server
+#TEMP: AS-NET-Framework
+#TEMP: AS-TCP-Port-Sharing
+#TEMP: AS-WAS-Support
+#TEMP: AS-MSMQ-Activation
+#TEMP: AS-TCP-Activation
+#TEMP: AS-Named-Pipes
+#TEMP: SNMP-Service
+#TEMP: RSAT-SNMP
+
+MSMQ
+#AS-Dist-Transaction
+#AS-Incoming-Trans
+#AS-Outgoing-Trans
+
+#File Server components
+#TEMP: File-Services
+#TEMP: FS-FileServer
+
+# OS IIS components
+Web-Server
+Web-WebServer
+Web-Common-Http
+Web-Static-Content
+Web-Default-Doc
+Web-Dir-Browsing
+Web-Http-Errors
+#TEMP: Web-Http-Redirect
+#Web-DAV-Publishing
+Web-App-Dev
+Web-Asp-Net
+Web-Net-Ext
+Web-ASP
+#TEMP: Web-ISAPI-Ext
+#TEMP: Web-ISAPI-Filter
+#TEMP: Web-Includes
+Web-Health
+Web-Http-Logging
+#TEMP: Web-Request-Monitor
+#TEMP: Web-Http-Tracing
+#TEMP: Web-Custom-Logging
+#TEMP: Web-Log-Libraries
+#TEMP: Web-Basic-Auth
+#TEMP: Web-Windows-Auth
+#TEMP: Web-Digest-Auth
+#TEMP: Web-Cert-Auth
+#TEMP: Web-Url-Auth
+Web-Filtering
+#TEMP: Web-IP-Security
+Web-Performance
+Web-Stat-Compression
+Web-Dyn-Compression
+#TEMP: Web-Mgmt-Tools
+#TEMP: Web-Mgmt-Console
+#TEMP: Web-Scripting-Tools
+#TEMP: Web-Mgmt-Service
+#TEMP: Web-Mgmt-Compat
+Web-Metabase
+Web-WMI
+NET-WCF-HTTP-Activation45
+#Web-Ftp-Server
+#Web-Ftp-Service
+#Web-Ftp-Ext
