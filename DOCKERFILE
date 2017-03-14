@@ -2,5 +2,6 @@ FROM microsoft/windowsservercore
 SHELL ["powershell", "-Command"]
 WORKDIR /setup/
 ADD /tasks ./tasks
+ADD /modules ./modules
 ADD run_setup.ps1 .
 RUN ./run_setup.ps1
